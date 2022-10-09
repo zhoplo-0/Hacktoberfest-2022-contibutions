@@ -243,3 +243,30 @@ University of Bamenda
 ### LinkedIn Handle
 
 Earl Millen
+
+
+
+# Earl Millen
+
+### Location
+
+Bangalore, India
+
+### Academics
+
+Christ University
+
+### Interests
+
+- I love watching movies in my free time!
+
+### Profile Link
+
+[Zhoplo](https://github.com/zhoplo-0)
+
+### LinkedIn Handle
+
+Zhoplo
+
+
+
